@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Abhinav Rudra 🔱</title>
+    <link>/posts/</link>
+    <description>Recent content in Posts on Abhinav Rudra 🔱</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 11 Jan 2024 21:02:41 +0530</lastBuildDate>
+    <atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Little bout&#39; myself!</title>
+      <link>/posts/first/</link>
+      <pubDate>Thu, 11 Jan 2024 21:02:41 +0530</pubDate>
+      <guid>/posts/first/</guid>
+      <description>Hey, I am an aspiring digital Artist and a consistent programmer. I like to learn new stuff make new friend and enjoy my life 😄
+Link to my pinterest art world: https://in.pinterest.com/Yin_Artz/</description>
+    </item>
+    <item>
+      <title>My First Website</title>
+      <link>/posts/second/</link>
+      <pubDate>Thu, 11 Jan 2024 21:02:41 +0530</pubDate>
+      <guid>/posts/second/</guid>
+      <description>My first website was made using hugo. I do not have any prior experience in making any website using HTML or even CSS. I had a little hard time understanding things, so i had to refer some youtube videos that helped me understand things more deeper.
+I was not totally new to building a website. What i knew was that html had tags that adds text and images to the website and css gives crazy desigsns to it.</description>
+    </item>
+  </channel>
+</rss>

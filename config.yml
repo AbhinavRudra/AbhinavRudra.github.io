@@ -1,0 +1,30 @@
+baseURL: ''
+languageCode: 'en-us'
+title: 'Abhinav Rudra 🔱'
+theme: PaperMod
+
+params:
+  homeInfoParams:
+    Title: 'Hello People!'
+    Content: 'Welcome to my Portfolio Website'
+  socialIcons:
+    - name: github
+      url: 'https://github.com/'
+    - name: linkedin
+      url: 'https://linkedin.com/'
+    - name: instagram
+      url: 'https://instagram.com/'
+    - name: pinterest
+      url: 'https://in.pinterest.com/Yin_Artz/'
+    - name: twitter
+      url: 'https://twitter.com/'
+
+menu:
+  main:
+    - identifier: about
+      name: About
+      url: /about/
+      weight: 10
+
+
+
